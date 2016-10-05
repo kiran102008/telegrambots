@@ -6,7 +6,7 @@
 include("Telegram.php");
 
 // Set the bot TOKEN
-$bot_id = "bot_token";
+$bot_id = "278835567:AAHFjzHG1dd1leHD9NtKYhmOkklYmFyALdk";
 // Instances the class
 $telegram = new Telegram($bot_id);
 
